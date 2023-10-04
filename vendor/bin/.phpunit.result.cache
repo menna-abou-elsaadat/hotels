@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RoomTest::testGetRoomsDataURL":8,"URLTest::testGetRoomsDataURL":8},"times":{"RoomTest::testGetRoomsDataURL":0.005,"RoomTest::testGetRoomData":1.528,"RoomTest::testGetDataFromAdertiserApis":1.281,"URLTest::testGetRoomsDataURL":0.013}}
